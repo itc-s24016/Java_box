@@ -1,4 +1,6 @@
 # これは「メモ帳アプリケーション」です
+<img width="329" height="256" alt="image" src="https://github.com/user-attachments/assets/6be2b45b-5035-4efc-8229-ce291d1f94d8" />
+
 ### 言語　　：JAVA[![My Skills](https://skillicons.dev/icons?i=java&theme=light)]()
 ### 開発環境：IntelliJ IDEA[![My Skills](https://skillicons.dev/icons?i=idea&theme=light)]()
 ### 構造
